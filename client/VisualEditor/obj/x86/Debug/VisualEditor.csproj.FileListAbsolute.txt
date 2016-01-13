@@ -1,0 +1,72 @@
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.exe.config
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.exe
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.Logic.dll
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.Utils.dll
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.Logic.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.Utils.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\VisualEditor.Properties.Resources.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\VisualEditor.exe
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\VisualEditor.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.exe.config
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\VisualEditor.exe
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\VisualEditor.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.exe
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.Logic.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.Utils.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.Logic.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.Utils.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\VisualEditor.Properties.Resources.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.exe.config
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\VisualEditor.exe
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\VisualEditor.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.exe
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.Logic.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.Utils.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.Logic.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor\bin\Debug\VisualEditor.Utils.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\VisualEditor.Properties.Resources.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Работа\CURRENT\VisualEditor\bin\Debug\VisualEditor.exe.config
+E:\Работа\CURRENT\VisualEditor\obj\x86\Debug\VisualEditor.exe
+E:\Работа\CURRENT\VisualEditor\obj\x86\Debug\VisualEditor.pdb
+E:\Работа\CURRENT\VisualEditor\bin\Debug\VisualEditor.exe
+E:\Работа\CURRENT\VisualEditor\bin\Debug\VisualEditor.pdb
+E:\Работа\CURRENT\VisualEditor\bin\Debug\VisualEditor.Logic.dll
+E:\Работа\CURRENT\VisualEditor\bin\Debug\VisualEditor.Utils.dll
+E:\Работа\CURRENT\VisualEditor\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Работа\CURRENT\VisualEditor\bin\Debug\VisualEditor.Logic.pdb
+E:\Работа\CURRENT\VisualEditor\bin\Debug\VisualEditor.Utils.pdb
+E:\Работа\CURRENT\VisualEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Работа\CURRENT\VisualEditor\obj\x86\Debug\VisualEditor.Properties.Resources.resources
+E:\Работа\CURRENT\VisualEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Работа\CURRENT\VisualEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\bin\Debug\VisualEditor.exe.config
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\obj\x86\Debug\VisualEditor.exe
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\obj\x86\Debug\VisualEditor.pdb
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\bin\Debug\VisualEditor.exe
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\bin\Debug\VisualEditor.pdb
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\bin\Debug\VisualEditor.Logic.dll
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\bin\Debug\VisualEditor.Utils.dll
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\bin\Debug\VisualEditor.Logic.pdb
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\bin\Debug\VisualEditor.Utils.pdb
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\obj\x86\Debug\VisualEditor.Properties.Resources.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\obj\x86\Debug\VisualEditor.csprojResolveAssemblyReference.cache
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\obj\x86\Debug\VisualEditor.csproj.GenerateResource.Cache
+E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\bin\Debug\VisualEditor.exe.config
+E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\obj\x86\Debug\VisualEditor.exe
+E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\obj\x86\Debug\VisualEditor.pdb

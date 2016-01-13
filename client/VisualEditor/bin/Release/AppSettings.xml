@@ -1,0 +1,20 @@
+<AppSettings>
+  <Environment>
+    <RecentProjects>
+      <ProjectPath1>E:\F\Software\HYPERTEST\Учебные программы\ttt.htp</ProjectPath1>
+      <ProjectPath2>E:\F\Software\HYPERTEST\Учебные программы\Методы сортировки и поиска true.htp</ProjectPath2>
+    </RecentProjects>
+    <InitialDirectory>E:\F\Software\HYPERTEST\Учебные программы</InitialDirectory>
+    <ShowInvalidCourseDialog>True</ShowInvalidCourseDialog>
+  </Environment>
+  <Saving>
+    <AutosavingInterval>0</AutosavingInterval>
+  </Saving>
+  <Appearance>
+    <WindowState>Maximized</WindowState>
+    <Left>-8</Left>
+    <Top>-8</Top>
+    <Width>1616</Width>
+    <Height>1176</Height>
+  </Appearance>
+</AppSettings>

@@ -1,0 +1,50 @@
+﻿using System;
+using System.Windows.Forms;
+using VisualEditor.Logic.Helpers;
+using VisualEditor.Logic.Warehouse;
+using VisualEditor.Utils.ExceptionHandling;
+
+namespace VisualEditor.Logic.Commands.Hint
+{
+    internal class HintBackColor : AbstractCommand
+    {
+        private const string operationCantBePerformedMessage = "Невозможно выполнить операцию. Попробуйте повтротить снова.";
+
+        public HintBackColor()
+        {
+            name = CommandNames.HintBackColor;
+            text = CommandTexts.HintBackColor;
+            image = Properties.Resources.BackColor;
+        }
+
+        public override void Execute(object @object)
+        {
+            if (!Enabled)
+            {
+                return;
+            }
+
+            if (EditorObserver.ActiveEditor == null)
+            {
+                return;
+            }
+
+            using (var cd = new ColorDialog())
+            {
+                if (cd.ShowDialog(EditorObserver.DialogOwner) == DialogResult.OK)
+                {
+                    try
+                    {
+                        EditorObserver.ActiveEditor.SetBackColor(cd.Color);
+                    }
+                    catch (Exception exception)
+                    {
+                        ExceptionManager.Instance.LogException(exception);
+                        UIHelper.ShowMessage(operationCantBePerformedMessage,
+                            MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
+            }
+        }
+    }
+}

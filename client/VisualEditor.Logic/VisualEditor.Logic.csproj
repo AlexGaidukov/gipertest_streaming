@@ -1,0 +1,1218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7862E2AC-5EB5-4120-8A28-E46225E4AC32}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VisualEditor.Logic</RootNamespace>
+    <AssemblyName>VisualEditor.Logic</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.0.2310, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Commands\AbstractCommand.cs" />
+    <Compile Include="Commands\Application\AppSettings.cs" />
+    <Compile Include="Commands\CommandManager.cs" />
+    <Compile Include="Commands\CommandNames.cs" />
+    <Compile Include="Commands\CommandTexts.cs" />
+    <Compile Include="Commands\Concept\DeleteConcept.cs" />
+    <Compile Include="Commands\Concept\NavigateToConcept.cs" />
+    <Compile Include="Commands\Concept\Profile.cs" />
+    <Compile Include="Commands\Concept\ProfileOptions.cs" />
+    <Compile Include="Commands\Concept\ProfileOptionsSmall.cs" />
+    <Compile Include="Commands\Course\AboutAuthors.cs" />
+    <Compile Include="Commands\Course\AddChoiceQuestion.cs" />
+    <Compile Include="Commands\Course\AddChoiceQuestionSmall.cs" />
+    <Compile Include="Commands\Course\AddCorrespondenceQuestion.cs" />
+    <Compile Include="Commands\Course\AddCorrespondenceQuestionSmall.cs" />
+    <Compile Include="Commands\Course\AddGroup.cs" />
+    <Compile Include="Commands\Course\AddInteractionQuestion.cs" />
+    <Compile Include="Commands\Course\AddInteractionQuestionSmall.cs" />
+    <Compile Include="Commands\Course\AddInTestModule.cs" />
+    <Compile Include="Commands\Course\AddItem.cs" />
+    <Compile Include="Commands\Course\AddMultichoiceQuestion.cs" />
+    <Compile Include="Commands\Course\AddMultichoiceQuestionSmall.cs" />
+    <Compile Include="Commands\Course\AddOpenQuestion.cs" />
+    <Compile Include="Commands\Course\AddOpenQuestionSmall.cs" />
+    <Compile Include="Commands\Course\AddOrderingQuestion.cs" />
+    <Compile Include="Commands\Course\AddOrderingQuestionSmall.cs" />
+    <Compile Include="Commands\Course\AddOuterQuestion.cs" />
+    <Compile Include="Commands\Course\AddOuterQuestionSmall.cs" />
+    <Compile Include="Commands\Course\AddOutTestModule.cs" />
+    <Compile Include="Commands\Course\AddQuestionFromOuterCourse.cs" />
+    <Compile Include="Commands\Course\AddResponse.cs" />
+    <Compile Include="Commands\Course\AddTestModuleFromOuterCourse.cs" />
+    <Compile Include="Commands\Course\AddTestModuleFromOuterCourseSmall.cs" />
+    <Compile Include="Commands\Course\AddTrainingModule.cs" />
+    <Compile Include="Commands\Course\CompleteAbilities.cs" />
+    <Compile Include="Commands\Course\CopyItem.cs" />
+    <Compile Include="Commands\Course\CutItem.cs" />
+    <Compile Include="Commands\Course\DeleteItem.cs" />
+    <Compile Include="Commands\Course\ItemOptions.cs" />
+    <Compile Include="Commands\Course\ItemOptionsSmall.cs" />
+    <Compile Include="Commands\Course\AddQuestionFromOuterCourseSmall.cs" />
+    <Compile Include="Commands\Course\MistakeCorrection.cs" />
+    <Compile Include="Commands\Course\PasteItem.cs" />
+    <Compile Include="Commands\Course\RenameItem.cs" />
+    <Compile Include="Commands\Course\VersionMaking.cs" />
+    <Compile Include="Commands\Course\ViewDocument.cs" />
+    <Compile Include="Commands\Document\Close.cs" />
+    <Compile Include="Commands\Document\CloseAll.cs" />
+    <Compile Include="Commands\Document\CloseAllButThis.cs" />
+    <Compile Include="Commands\Document\NavigateBackward.cs" />
+    <Compile Include="Commands\Document\NavigateForward.cs" />
+    <Compile Include="Commands\Document\ViewNode.cs" />
+    <Compile Include="Commands\Embedding\Animation.cs" />
+    <Compile Include="Commands\Embedding\AnimationSmall.cs" />
+    <Compile Include="Commands\Embedding\Audio.cs" />
+    <Compile Include="Commands\Embedding\AudioSmall.cs" />
+    <Compile Include="Commands\Embedding\Bookmark.cs" />
+    <Compile Include="Commands\Embedding\BookmarkSmall.cs" />
+    <Compile Include="Commands\Embedding\Concept.cs" />
+    <Compile Include="Commands\Embedding\ConceptSmall.cs" />
+    <Compile Include="Commands\Embedding\DeleteLink.cs" />
+    <Compile Include="Commands\Embedding\Equation.cs" />
+    <Compile Include="Commands\Embedding\EquationSmall.cs" />
+    <Compile Include="Commands\Embedding\Link.cs" />
+    <Compile Include="Commands\Embedding\LinkSmall.cs" />
+    <Compile Include="Commands\Embedding\Picture.cs" />
+    <Compile Include="Commands\Embedding\PictureSmall.cs" />
+    <Compile Include="Commands\Embedding\Style.cs" />
+    <Compile Include="Commands\Embedding\StyleSmall.cs" />
+    <Compile Include="Commands\Embedding\Symbol.cs" />
+    <Compile Include="Commands\Embedding\SymbolSmall.cs" />
+    <Compile Include="Commands\Embedding\Table.cs" />
+    <Compile Include="Commands\Embedding\TableSmall.cs" />
+    <Compile Include="Commands\Embedding\Video.cs" />
+    <Compile Include="Commands\Embedding\VideoSmall.cs" />
+    <Compile Include="Commands\FloatingWindows\Concepts.cs" />
+    <Compile Include="Commands\FloatingWindows\Course.cs" />
+    <Compile Include="Commands\FloatingWindows\Warnings.cs" />
+    <Compile Include="Commands\Help\Help.cs" />
+    <Compile Include="Commands\Hint\HintAnimation.cs" />
+    <Compile Include="Commands\Hint\HintAnimationSmall.cs" />
+    <Compile Include="Commands\Hint\HintAscender.cs" />
+    <Compile Include="Commands\Hint\HintBackColor.cs" />
+    <Compile Include="Commands\Hint\HintBold.cs" />
+    <Compile Include="Commands\Hint\HintCopy.cs" />
+    <Compile Include="Commands\Hint\HintCut.cs" />
+    <Compile Include="Commands\Hint\HintEquation.cs" />
+    <Compile Include="Commands\Hint\HintEquationSmall.cs" />
+    <Compile Include="Commands\Hint\HintFontName.cs" />
+    <Compile Include="Commands\Hint\HintFontSize.cs" />
+    <Compile Include="Commands\Hint\HintFontSizeDown.cs" />
+    <Compile Include="Commands\Hint\HintFontSizeUp.cs" />
+    <Compile Include="Commands\Hint\HintForeColor.cs" />
+    <Compile Include="Commands\Hint\HintIndent.cs" />
+    <Compile Include="Commands\Hint\HintInferior.cs" />
+    <Compile Include="Commands\Hint\HintItalic.cs" />
+    <Compile Include="Commands\Hint\HintJustifyCenter.cs" />
+    <Compile Include="Commands\Hint\HintJustifyFull.cs" />
+    <Compile Include="Commands\Hint\HintJustifyLeft.cs" />
+    <Compile Include="Commands\Hint\HintJustifyRight.cs" />
+    <Compile Include="Commands\Hint\HintOrderedList.cs" />
+    <Compile Include="Commands\Hint\HintOutdent.cs" />
+    <Compile Include="Commands\Hint\HintPaste.cs" />
+    <Compile Include="Commands\Hint\HintPicture.cs" />
+    <Compile Include="Commands\Hint\HintPictureSmall.cs" />
+    <Compile Include="Commands\Hint\HintRedo.cs" />
+    <Compile Include="Commands\Hint\HintRemoveFormat.cs" />
+    <Compile Include="Commands\Hint\HintStrikeThrough.cs" />
+    <Compile Include="Commands\Hint\HintStyle.cs" />
+    <Compile Include="Commands\Hint\HintStyleSmall.cs" />
+    <Compile Include="Commands\Hint\HintSymbol.cs" />
+    <Compile Include="Commands\Hint\HintSymbolSmall.cs" />
+    <Compile Include="Commands\Hint\HintTable.cs" />
+    <Compile Include="Commands\Hint\HintTableSmall.cs" />
+    <Compile Include="Commands\Hint\HintUnderline.cs" />
+    <Compile Include="Commands\Hint\HintUndo.cs" />
+    <Compile Include="Commands\Hint\HintUnorderedList.cs" />
+    <Compile Include="Commands\HtmlEditing\Ascender.cs" />
+    <Compile Include="Commands\HtmlEditing\BackColor.cs" />
+    <Compile Include="Commands\HtmlEditing\Bold.cs" />
+    <Compile Include="Commands\HtmlEditing\Break.cs" />
+    <Compile Include="Commands\HtmlEditing\Copy.cs" />
+    <Compile Include="Commands\HtmlEditing\Cut.cs" />
+    <Compile Include="Commands\HtmlEditing\Design.cs" />
+    <Compile Include="Commands\HtmlEditing\EditEquation.cs" />
+    <Compile Include="Commands\HtmlEditing\Find.cs" />
+    <Compile Include="Commands\HtmlEditing\Font.cs" />
+    <Compile Include="Commands\HtmlEditing\FontName.cs" />
+    <Compile Include="Commands\HtmlEditing\FontSize.cs" />
+    <Compile Include="Commands\HtmlEditing\FontSizeDown.cs" />
+    <Compile Include="Commands\HtmlEditing\FontSizeUp.cs" />
+    <Compile Include="Commands\HtmlEditing\ForeColor.cs" />
+    <Compile Include="Commands\HtmlEditing\HorizontalRule.cs" />
+    <Compile Include="Commands\HtmlEditing\Indent.cs" />
+    <Compile Include="Commands\HtmlEditing\Inferior.cs" />
+    <Compile Include="Commands\HtmlEditing\Italic.cs" />
+    <Compile Include="Commands\HtmlEditing\JustifyCenter.cs" />
+    <Compile Include="Commands\HtmlEditing\JustifyFull.cs" />
+    <Compile Include="Commands\HtmlEditing\JustifyLeft.cs" />
+    <Compile Include="Commands\HtmlEditing\JustifyRight.cs" />
+    <Compile Include="Commands\HtmlEditing\OrderedList.cs" />
+    <Compile Include="Commands\HtmlEditing\Outdent.cs" />
+    <Compile Include="Commands\HtmlEditing\Paste.cs" />
+    <Compile Include="Commands\HtmlEditing\Preview.cs" />
+    <Compile Include="Commands\HtmlEditing\Redo.cs" />
+    <Compile Include="Commands\HtmlEditing\RemoveFormat.cs" />
+    <Compile Include="Commands\HtmlEditing\Replace.cs" />
+    <Compile Include="Commands\HtmlEditing\Source.cs" />
+    <Compile Include="Commands\HtmlEditing\StrikeThrough.cs" />
+    <Compile Include="Commands\HtmlEditing\Underline.cs" />
+    <Compile Include="Commands\HtmlEditing\Undo.cs" />
+    <Compile Include="Commands\HtmlEditing\UnorderedList.cs" />
+    <Compile Include="Commands\IO\LoadFromHtp.cs" />
+    <Compile Include="Commands\IO\LoadFromImsQti.cs" />
+    <Compile Include="Commands\IO\LoadFromXml.cs" />
+    <Compile Include="Commands\IO\OuterLoadFromHtp.cs" />
+    <Compile Include="Commands\IO\OuterLoadFromXml.cs" />
+    <Compile Include="Commands\IO\SaveToHtp.cs" />
+    <Compile Include="Commands\IO\SaveToImsQti.cs" />
+    <Compile Include="Commands\IO\SaveToXml.cs" />
+    <Compile Include="Commands\Preview\NavigateToLinkObject.cs" />
+    <Compile Include="Commands\Project\CloseProject.cs" />
+    <Compile Include="Commands\Project\Exit.cs" />
+    <Compile Include="Commands\Project\NewProject.cs" />
+    <Compile Include="Commands\Project\OpenProject.cs" />
+    <Compile Include="Commands\Project\RecentProject.cs" />
+    <Compile Include="Commands\Project\SaveProject.cs" />
+    <Compile Include="Commands\Project\SaveProjectAs.cs" />
+    <Compile Include="Commands\Project\SaveProjectSmall.cs" />
+    <Compile Include="Controls\Docking\DockContainer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\Documents\AnimationDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\Documents\AudioDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\Documents\DocumentBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\Documents\PictureDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\Documents\PreviewDocument.cs">
+      <SubType>form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\Documents\PreviewDocument.designer.cs">
+      <DependentUpon>PreviewDocument.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Docking\Documents\QuestionDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\Documents\ResponseDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\Documents\VideoDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\SideWindows\ConceptWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\SideWindows\CourseWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\SideWindows\SideWindowBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\Documents\TrainingModuleDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\SideWindows\WarningWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\HtmlEditing\HtmlEditingToolHelper.cs" />
+    <Compile Include="Controls\HtmlEditing\HtmlToolContextMenuHelper.cs" />
+    <Compile Include="Controls\HtmlEditing\HtmlToolEmbeddingHelper.cs" />
+    <Compile Include="Controls\HtmlEditing\HtmlToolMediaHelper.cs" />
+    <Compile Include="Controls\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Extended\FontNameComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Extended\FontSizeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Extended\Hint\HintFontNameComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Extended\Hint\HintFontSizeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\HintRibbon.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\MainRibbon.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\AboutAuthorsPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\AdditionallyPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\BufferPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\ConceptPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\EditingPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\EditorModesPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\FloatingWindowsPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\FontPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\Hint\HintBufferPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\Hint\HintFontPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\Hint\HintMultimediaPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\Hint\HintParagraphPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\Hint\HintStylesPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\Hint\HintSymbolsPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\Hint\HintTablesPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\ImsQtiPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\LinksPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\MultimediaPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\ParagraphPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\RevisionModePanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\StructurePanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\StylesPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\SymbolsPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Panels\TablesPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Extended\RibbonButtonEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Extended\RibbonComboBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Extended\RibbonContextMenuItemEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonHelper.cs" />
+    <Compile Include="Controls\Ribbon\Extended\RibbonOrbMenuItemEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Extended\RibbonOrbOptionButtonEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Extended\RibbonOrbRecentButtonEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Extended\RibbonStatusStripEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Tabs\CourseTab.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Tabs\EmbeddingTab.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Tabs\Hint\HintEmbeddingTab.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Tabs\Hint\HintMainTab.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\Tabs\MainTab.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Trees\BookmarkTree.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Trees\ConceptSorter.cs" />
+    <Compile Include="Controls\Trees\ConceptTree.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Trees\CourseTree.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Trees\OuterCourseTree.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Trees\WarningNode.cs" />
+    <Compile Include="Controls\Trees\WarningTree.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Course\Items\Bookmark.cs" />
+    <Compile Include="Course\Items\Concept.cs" />
+    <Compile Include="Course\Items\CourseItem.cs" />
+    <Compile Include="Course\Items\CourseRoot.cs" />
+    <Compile Include="Course\Items\Group.cs" />
+    <Compile Include="Course\Items\InConceptParent.cs" />
+    <Compile Include="Course\Items\InDummyConcept.cs" />
+    <Compile Include="Course\Items\OutConceptParent.cs" />
+    <Compile Include="Course\Items\OutDummyConcept.cs" />
+    <Compile Include="Course\Items\Question.cs" />
+    <Compile Include="Course\Items\Questions\ChoiceQuestion.cs" />
+    <Compile Include="Course\Items\Questions\CorrespondenceQuestion.cs" />
+    <Compile Include="Course\Items\LinkToObject.cs" />
+    <Compile Include="Course\Items\Questions\Externaltest.cs" />
+    <Compile Include="Course\Items\Questions\InteractionQuestion.cs" />
+    <Compile Include="Course\Items\Questions\MultichoiceQuestion.cs" />
+    <Compile Include="Course\Items\Questions\OpenQuestion.cs" />
+    <Compile Include="Course\Items\Questions\OrderingQuestion.cs" />
+    <Compile Include="Course\Items\Questions\OuterQuestion.cs" />
+    <Compile Include="Course\Items\Questions\Problem.cs" />
+    <Compile Include="Course\Items\Questions\ServiceInfo.cs" />
+    <Compile Include="Course\Items\Questions\Task.cs" />
+    <Compile Include="Course\Items\Response.cs" />
+    <Compile Include="Course\Items\ResponseVariant.cs" />
+    <Compile Include="Course\Items\TestModule.cs" />
+    <Compile Include="Course\Items\TrainingModule.cs" />
+    <Compile Include="Course\Preview\PreviewConverter.cs" />
+    <Compile Include="Course\Structuring\CourseTreeDragDropHelper.cs" />
+    <Compile Include="Course\Structuring\CourseTreeKeyboardHelper.cs" />
+    <Compile Include="Course\Structuring\DragHelper.cs" />
+    <Compile Include="Dialogs\AddItemFromOuterCourseDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\AddItemFromOuterCourseDialog.designer.cs">
+      <DependentUpon>AddItemFromOuterCourseDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\AnimationDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\AnimationDialog.designer.cs">
+      <DependentUpon>AnimationDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\AppSettingsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\AppSettingsDialog.designer.cs">
+      <DependentUpon>AppSettingsDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\BookmarkDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\BookmarkDialog.designer.cs">
+      <DependentUpon>BookmarkDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\ConceptDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\ConceptDialog.designer.cs">
+      <DependentUpon>ConceptDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\AudioDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\AudioDialog.designer.cs">
+      <DependentUpon>AudioDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\VideoDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\VideoDialog.designer.cs">
+      <DependentUpon>VideoDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\EquationDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\EquationDialog.designer.cs">
+      <DependentUpon>EquationDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\FindDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\FindDialog.designer.cs">
+      <DependentUpon>FindDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\GroupDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\GroupDialog.designer.cs">
+      <DependentUpon>GroupDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\HintDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\HintDialog.designer.cs">
+      <DependentUpon>HintDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\InvalidCourseDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\InvalidCourseDialog.designer.cs">
+      <DependentUpon>InvalidCourseDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\LinkDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\LinkDialog.designer.cs">
+      <DependentUpon>LinkDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\NetQuestionDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\NetQuestionDialog.designer.cs">
+      <DependentUpon>NetQuestionDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\NetResponseVariantDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\NetResponseVariantDialog.designer.cs">
+      <DependentUpon>NetResponseVariantDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\OuterQuestionDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\OuterQuestionDialog.designer.cs">
+      <DependentUpon>OuterQuestionDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\PictureDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\PictureDialog.designer.cs">
+      <DependentUpon>PictureDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\ProfileDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\ProfileDialog.designer.cs">
+      <DependentUpon>ProfileDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\QuestionDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\QuestionDialog.designer.cs">
+      <DependentUpon>QuestionDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\QuestionInGroupDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\QuestionInGroupDialog.designer.cs">
+      <DependentUpon>QuestionInGroupDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\RenameDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\RenameDialog.designer.cs">
+      <DependentUpon>RenameDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\ResponseVariantDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\ResponseVariantDialog.designer.cs">
+      <DependentUpon>ResponseVariantDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\StyleDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\StyleDialog.designer.cs">
+      <DependentUpon>StyleDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\SymbolButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dialogs\SymbolDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\SymbolDialog.designer.cs">
+      <DependentUpon>SymbolDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\SymbolsPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dialogs\TableDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\TableDialog.designer.cs">
+      <DependentUpon>TableDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\TestModuleDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\TestModuleDialog.designer.cs">
+      <DependentUpon>TestModuleDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enums.cs" />
+    <Compile Include="Helpers\AppSettings\AppSettingsHelper.cs" />
+    <Compile Include="Helpers\AppSettings\AppSettingsManager.cs" />
+    <Compile Include="Helpers\AppSettings\SettingNames.cs" />
+    <Compile Include="Helpers\ExceptionHelper.cs" />
+    <Compile Include="Helpers\ProjectAnalyzer.cs" />
+    <Compile Include="Helpers\Renderer.cs" />
+    <Compile Include="Helpers\UIHelper.cs" />
+    <Compile Include="HtmlTextWork.cs" />
+    <Compile Include="IO\GroupXmlReader.cs" />
+    <Compile Include="IO\GroupXmlWriter.cs" />
+    <Compile Include="IO\Wrappers\GZipHelper.cs" />
+    <Compile Include="IO\Questions\ChoiceQuestionXmlReader.cs" />
+    <Compile Include="IO\Questions\ChoiceQuestionXmlWriter.cs" />
+    <Compile Include="IO\MlParser.cs" />
+    <Compile Include="IO\Questions\MultichoiceQuestionXmlReader.cs" />
+    <Compile Include="IO\Questions\MultichoiceQuestionXmlWriter.cs" />
+    <Compile Include="IO\Questions\OpenQuestionXmlReader.cs" />
+    <Compile Include="IO\Questions\OpenQuestionXmlWriter.cs" />
+    <Compile Include="IO\Questions\OrderingQuestionXmlReader.cs" />
+    <Compile Include="IO\Questions\OrderingQuestionXmlWriter.cs" />
+    <Compile Include="IO\Questions\OuterQuestionXmlReader.cs" />
+    <Compile Include="IO\Questions\OuterQuestionXmlWriter.cs" />
+    <Compile Include="IO\Questions\QuestionXmlReader.cs" />
+    <Compile Include="IO\Questions\QuestionXmlWriter.cs" />
+    <Compile Include="IO\ResponseVariantXmlReader.cs" />
+    <Compile Include="IO\ResponseXmlReader.cs" />
+    <Compile Include="IO\TagPair.cs" />
+    <Compile Include="IO\Wrappers\TarHelper.cs" />
+    <Compile Include="IO\TestModuleXmlReader.cs" />
+    <Compile Include="IO\TestModuleXmlWriter.cs" />
+    <Compile Include="IO\TrainingModuleXmlReader.cs" />
+    <Compile Include="IO\TrainingModuleXmlWriter.cs" />
+    <Compile Include="IO\Wrappers\ZipHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TODOs.cs" />
+    <Compile Include="Warehouse\EditorObserver.cs" />
+    <Compile Include="Warehouse\PreviewObserver.cs" />
+    <Compile Include="Warehouse\Warehouse.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VisualEditor.Utils\VisualEditor.Utils.csproj">
+      <Project>{AA8A1756-0F81-419F-BB9E-A942A886D585}</Project>
+      <Name>VisualEditor.Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\Docking\Documents\PreviewDocument.resx">
+      <DependentUpon>PreviewDocument.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\AddItemFromOuterCourseDialog.resx">
+      <DependentUpon>AddItemFromOuterCourseDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\AnimationDialog.resx">
+      <DependentUpon>AnimationDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\AppSettingsDialog.resx">
+      <DependentUpon>AppSettingsDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\BookmarkDialog.resx">
+      <DependentUpon>BookmarkDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\ConceptDialog.resx">
+      <DependentUpon>ConceptDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\AudioDialog.resx">
+      <DependentUpon>AudioDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\VideoDialog.resx">
+      <DependentUpon>VideoDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\EquationDialog.resx">
+      <DependentUpon>EquationDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\FindDialog.resx">
+      <DependentUpon>FindDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\GroupDialog.resx">
+      <DependentUpon>GroupDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\HintDialog.resx">
+      <DependentUpon>HintDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\InvalidCourseDialog.resx">
+      <DependentUpon>InvalidCourseDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\LinkDialog.resx">
+      <DependentUpon>LinkDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\NetQuestionDialog.resx">
+      <DependentUpon>NetQuestionDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\NetResponseVariantDialog.resx">
+      <DependentUpon>NetResponseVariantDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\OuterQuestionDialog.resx">
+      <DependentUpon>OuterQuestionDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\PictureDialog.resx">
+      <DependentUpon>PictureDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\ProfileDialog.resx">
+      <DependentUpon>ProfileDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\QuestionDialog.resx">
+      <DependentUpon>QuestionDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\QuestionInGroupDialog.resx">
+      <DependentUpon>QuestionInGroupDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\RenameDialog.resx">
+      <DependentUpon>RenameDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\ResponseVariantDialog.resx">
+      <DependentUpon>ResponseVariantDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\StyleDialog.resx">
+      <DependentUpon>StyleDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\SymbolDialog.resx">
+      <DependentUpon>SymbolDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\TableDialog.resx">
+      <DependentUpon>TableDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\TestModuleDialog.resx">
+      <DependentUpon>TestModuleDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CourseWindow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConceptWindow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Response.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrainingModule.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AnimationSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CourseRoot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InConceptParent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OutConceptParent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InDummyConcept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OutDummyConcept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TestModule.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewProject.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseProject.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveProjectAs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveProjectSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveProject.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VisualEditor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OpenProject.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ItemOptionsSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeleteItem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeleteConcept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Design.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FontTT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heading1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heading2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heading3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heading4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heading5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heading6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heading7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RemoveFormat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FontSizeDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FontSizeUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackColor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ForeColor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Italic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StrikeThrough.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Underline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ascender.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inferior.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Font.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Indent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JustifyCenter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JustifyFull.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JustifyLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JustifyRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrderedList.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Outdent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UnorderedList.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Replace.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WarningWindow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TableSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Animation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bookmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BookmarkSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Concept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConceptSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LinkSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Style.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StyleSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Equation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EquationSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SymbolSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Break.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HorizontalRule.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddItem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ItemOptions.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Redo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AppSettings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CutItem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PasteItem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CopyItem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NavigateBackward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NavigateForward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NextQuestion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ViewNextQuestion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Source.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UnhandledException.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DummyUnhandledException.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Video.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VideoSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Audio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AudioSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aud.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties Reset="1" AssemblyVersion="1" AssemblyFileVersion="1" StartDate="20100101" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

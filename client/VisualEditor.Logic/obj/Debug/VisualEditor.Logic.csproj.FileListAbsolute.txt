@@ -1,0 +1,582 @@
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.csproj.GenerateResource.Cache
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.csproj.GenerateResource.Cache
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AudioDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.VideoDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.csproj.GenerateResource.Cache
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AudioDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.VideoDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.csproj.GenerateResource.Cache
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+C:\Documents and Settings\Светлана\Мои документы\ICQ\369322453\ReceivedFiles\566906165 Рита\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AudioDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.VideoDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AudioDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.VideoDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\ResGen.read.1.tlog
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\ResGen.write.1.tlog
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AudioDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.VideoDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\ResGen.read.1.tlog
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\ResGen.write.1.tlog
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+C:\Users\Светлана\AppData\Roaming\QIP\Profiles\lana_sharonova\RcvdFiles\Рита_vredozilla@qip.ru\Sources\Sources\Sources\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AudioDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.VideoDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\ResGen.read.1.tlog
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\ResGen.write.1.tlog
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AudioDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.VideoDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\ResGen.read.1.tlog
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\ResGen.write.1.tlog
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AudioDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.VideoDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AudioDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.VideoDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AudioDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.VideoDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\GenerateResource.read.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\ResGen.read.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\GenerateResource.write.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\ResGen.write.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AudioDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.VideoDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\GenerateResource.read.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\ResGen.read.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\GenerateResource.write.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\ResGen.write.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\ResolveAssemblyReference.cache
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AudioDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.VideoDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\GenerateResource.read.1.tlog
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\ResGen.read.1.tlog
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\GenerateResource.write.1.tlog
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\ResGen.write.1.tlog
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+E:\Работа\CURRENT\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+E:\Работа\CURRENT\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+E:\Работа\CURRENT\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+E:\Работа\CURRENT\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+E:\Работа\CURRENT\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AudioDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.VideoDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.csprojResolveAssemblyReference.cache
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.csproj.GenerateResource.Cache

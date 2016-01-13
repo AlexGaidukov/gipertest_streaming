@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AA8A1756-0F81-419F-BB9E-A942A886D585}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VisualEditor.Utils</RootNamespace>
+    <AssemblyName>VisualEditor.Utils</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft.NET\Primary Interop Assemblies\Microsoft.mshtml.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\Bevel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\AutoHideStripBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockAreasEditor.cs" />
+    <Compile Include="Controls\Docking\DockContent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockContentCollection.cs" />
+    <Compile Include="Controls\Docking\DockContentEventArgs.cs" />
+    <Compile Include="Controls\Docking\DockContentHandler.cs" />
+    <Compile Include="Controls\Docking\DockOutlineBase.cs" />
+    <Compile Include="Controls\Docking\DockPane.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockPane.SplitterControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockPaneCaptionBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockPaneCollection.cs" />
+    <Compile Include="Controls\Docking\DockPanel.AutoHideWindow.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockPanel.cs" />
+    <Compile Include="Controls\Docking\DockPanel.DockDragHandler.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockPanel.DragHandler.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockPanel.FocusManager.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockPanel.MdiClientController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockPanel.Persistor.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockPanel.SplitterDragHandler.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockPanelExtender.cs" />
+    <Compile Include="Controls\Docking\DockPaneStripBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockWindow.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockWindow.SplitterControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DockWindowCollection.cs" />
+    <Compile Include="Controls\Docking\DragForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\DummyControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\Enums.cs" />
+    <Compile Include="Controls\Docking\FloatWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\FloatWindowCollection.cs" />
+    <Compile Include="Controls\Docking\Helpers\DockHelper.cs" />
+    <Compile Include="Controls\Docking\Helpers\DrawHelper.cs" />
+    <Compile Include="Controls\Docking\Helpers\ResourceHelper.cs" />
+    <Compile Include="Controls\Docking\Helpers\Win32Helper.cs" />
+    <Compile Include="Controls\Docking\InertButtonBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\Interfaces.cs" />
+    <Compile Include="Controls\Docking\Localization.cs" />
+    <Compile Include="Controls\Docking\Measures.cs" />
+    <Compile Include="Controls\Docking\NestedDockingStatus.cs" />
+    <Compile Include="Controls\Docking\NestedPaneCollection.cs" />
+    <Compile Include="Controls\Docking\Resources.Designer.cs" />
+    <Compile Include="Controls\Docking\SplitterBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\Strings.Designer.cs" />
+    <Compile Include="Controls\Docking\VisibleNestedPaneCollection.cs" />
+    <Compile Include="Controls\Docking\VS2005AutoHideStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\VS2005DockPaneCaption.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\VS2005DockPaneStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Docking\Win32\Enums.cs" />
+    <Compile Include="Controls\Docking\Win32\NativeMethods.cs" />
+    <Compile Include="Controls\HtmlEditing\CommandIdentifiers.cs" />
+    <Compile Include="Controls\HtmlEditing\Defaults.cs" />
+    <Compile Include="Controls\HtmlEditing\Enums.cs" />
+    <Compile Include="Controls\HtmlEditing\HtmlEditingTool.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\HtmlEditing\HtmlEditingToolHelper.cs" />
+    <Compile Include="Controls\HtmlEditing\TagNames.cs" />
+    <Compile Include="Controls\Ribbon\IContainsRibbonComponents.cs" />
+    <Compile Include="Controls\Ribbon\IContainsSelectableRibbonItems.cs" />
+    <Compile Include="Controls\Ribbon\IDropDownRibbonItem.cs" />
+    <Compile Include="Controls\Ribbon\IRibbonElement.cs" />
+    <Compile Include="Controls\Ribbon\IScrollableRibbonItem.cs" />
+    <Compile Include="Controls\Ribbon\Office2007ColorTable.cs" />
+    <Compile Include="Controls\Ribbon\Office2007Helpers.cs" />
+    <Compile Include="Controls\Ribbon\Office2007Renderer.cs" />
+    <Compile Include="Controls\Ribbon\Ribbon.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonArrowDirection.cs" />
+    <Compile Include="Controls\Ribbon\RibbonButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonButtonCollection.cs" />
+    <Compile Include="Controls\Ribbon\RibbonButtonDesigner.cs" />
+    <Compile Include="Controls\Ribbon\RibbonButtonList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonButtonListDesigner.cs" />
+    <Compile Include="Controls\Ribbon\RibbonButtonStyle.cs" />
+    <Compile Include="Controls\Ribbon\RibbonCanvasEventArgs.cs" />
+    <Compile Include="Controls\Ribbon\RibbonColorChooser.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonComboBoxDesigner.cs" />
+    <Compile Include="Controls\Ribbon\RibbonContext.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonContextCollection.cs" />
+    <Compile Include="Controls\Ribbon\RibbonContextMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonDesigner.cs" />
+    <Compile Include="Controls\Ribbon\RibbonDropDown.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonElementMeasureSizeEventArgs.cs" />
+    <Compile Include="Controls\Ribbon\RibbonElementPaintEventArgs.cs" />
+    <Compile Include="Controls\Ribbon\RibbonElementWithItemCollectionDesigner.cs" />
+    <Compile Include="Controls\Ribbon\RibbonItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonItemBoundsEventArgs.cs" />
+    <Compile Include="Controls\Ribbon\RibbonItemCollection.cs" />
+    <Compile Include="Controls\Ribbon\RibbonItemCollectionEditor.cs" />
+    <Compile Include="Controls\Ribbon\RibbonItemGroup.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonItemGroupDesigner.cs" />
+    <Compile Include="Controls\Ribbon\RibbonItemGroupItemCollection.cs" />
+    <Compile Include="Controls\Ribbon\RibbonItemRenderEventArgs.cs" />
+    <Compile Include="Controls\Ribbon\RibbonOrbAdornerGlyph.cs" />
+    <Compile Include="Controls\Ribbon\RibbonOrbDropDown.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonOrbDropDownEventArgs.cs" />
+    <Compile Include="Controls\Ribbon\RibbonOrbMenuItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonOrbOptionButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonOrbRecentItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonPanelCollection.cs" />
+    <Compile Include="Controls\Ribbon\RibbonPanelDesigner.cs" />
+    <Compile Include="Controls\Ribbon\RibbonPanelFlowDirection.cs" />
+    <Compile Include="Controls\Ribbon\RibbonPanelGlyph.cs" />
+    <Compile Include="Controls\Ribbon\RibbonPanelPopup.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonPanelRenderEventArgs.cs" />
+    <Compile Include="Controls\Ribbon\RibbonPanelSizeMode.cs" />
+    <Compile Include="Controls\Ribbon\RibbonPopup.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonProfesionalRendererColorTable.cs" />
+    <Compile Include="Controls\Ribbon\RibbonProfesionalRendererColorTableBlack.cs" />
+    <Compile Include="Controls\Ribbon\RibbonProfessionalRenderer.cs" />
+    <Compile Include="Controls\Ribbon\RibbonQuickAccessToolbar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonQuickAccessToolbarGlyph.cs" />
+    <Compile Include="Controls\Ribbon\RibbonQuickAccessToolbarItemCollection.cs" />
+    <Compile Include="Controls\Ribbon\RibbonRenderer.cs" />
+    <Compile Include="Controls\Ribbon\RibbonRenderEventArgs.cs" />
+    <Compile Include="Controls\Ribbon\RibbonSensor.cs" />
+    <Compile Include="Controls\Ribbon\RibbonSeparator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonStatusStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonTab.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonTabCollection.cs" />
+    <Compile Include="Controls\Ribbon\RibbonTabDesigner.cs" />
+    <Compile Include="Controls\Ribbon\RibbonTabGlyph.cs" />
+    <Compile Include="Controls\Ribbon\RibbonTabRenderEventArgs.cs" />
+    <Compile Include="Controls\Ribbon\RibbonTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Ribbon\RibbonToolTip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\SplashScreen.designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExceptionHandling\ExceptionContextInfo.cs" />
+    <Compile Include="ExceptionHandling\ExceptionManager.cs" />
+    <Compile Include="ExceptionHandling\IExceptionLogger.cs" />
+    <Compile Include="ExceptionHandling\XmlFileLogger.cs" />
+    <Compile Include="Helpers\ExtensionMethods.cs" />
+    <Compile Include="Helpers\RegistryHelper.cs" />
+    <Compile Include="Helpers\XmlHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\UpDown.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Controls\Docking\Resources\DockIndicator_PaneDiamond.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PaneDiamond_Bottom.bmp" />
+    <Content Include="Controls\Docking\Resources\Dockindicator_PaneDiamond_Fill.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PaneDiamond_Hotspot.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PaneDiamond_HotspotIndex.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PaneDiamond_Left.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PaneDiamond_Right.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PaneDiamond_Top.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PanelBottom.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PanelBottom_Active.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PanelFill.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PanelFill_Active.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PanelLeft.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PanelLeft_Active.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PanelRight.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PanelRight_Active.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PanelTop.bmp" />
+    <Content Include="Controls\Docking\Resources\DockIndicator_PanelTop_Active.bmp" />
+    <Content Include="Controls\Docking\Resources\DockPane_AutoHide.bmp" />
+    <Content Include="Controls\Docking\Resources\DockPane_Close.bmp" />
+    <Content Include="Controls\Docking\Resources\DockPane_Dock.bmp" />
+    <Content Include="Controls\Docking\Resources\DockPane_Option.bmp" />
+    <Content Include="Controls\Docking\Resources\DockPane_OptionOverflow.bmp" />
+    <None Include="Resources\SplashScreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\Docking\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Docking\Strings.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties Reset="1" AssemblyVersion="1" AssemblyFileVersion="1" StartDate="20100101" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,151 @@
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor\VisualEditor.Utils\obj\Debug\ResolveAssemblyReference.cache
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\ResolveAssemblyReference.cache
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Resources.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Strings.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.SplashScreen.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Properties.Resources.resources
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.csproj.GenerateResource.Cache
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+D:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\ResolveAssemblyReference.cache
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Resources.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Strings.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.SplashScreen.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Properties.Resources.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.csproj.GenerateResource.Cache
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Utils\obj\Debug\ResolveAssemblyReference.cache
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Resources.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Strings.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.SplashScreen.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Properties.Resources.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.csproj.GenerateResource.Cache
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Utils\obj\Debug\ResolveAssemblyReference.cache
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Resources.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Strings.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.SplashScreen.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Properties.Resources.resources
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+E:\работа\Редактор\что нужно включить в дистриб\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Resources.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Strings.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.SplashScreen.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Properties.Resources.resources
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Utils\obj\Debug\ResGen.read.1.tlog
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Utils\obj\Debug\ResGen.write.1.tlog
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+C:\Users\Margarita\Desktop\Sources\Sources\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Resources.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Strings.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.SplashScreen.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Properties.Resources.resources
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Utils\obj\Debug\ResGen.read.1.tlog
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Utils\obj\Debug\ResGen.write.1.tlog
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+C:\Users\Margarita\Desktop\Sources_сетвопросы)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Resources.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Strings.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.SplashScreen.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Properties.Resources.resources
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\ResGen.read.1.tlog
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\ResGen.write.1.tlog
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+C:\Users\Margarita\Desktop\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Resources.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Strings.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.SplashScreen.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Properties.Resources.resources
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+C:\Documents and Settings\Владелец\Рабочий стол\Sources(imsqti+сетевые)\Sources(imsqti+сетевые)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Resources.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Strings.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.SplashScreen.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Properties.Resources.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\ResolveAssemblyReference.cache
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Resources.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Strings.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.SplashScreen.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Properties.Resources.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\GenerateResource.read.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\ResGen.read.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\GenerateResource.write.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\ResGen.write.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\ResolveAssemblyReference.cache
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Resources.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Strings.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.SplashScreen.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Properties.Resources.resources
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\GenerateResource.read.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\ResGen.read.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\GenerateResource.write.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\ResGen.write.1.tlog
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+E:\Работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
+E:\Работа\CURRENT\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+E:\Работа\CURRENT\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+E:\Работа\CURRENT\VisualEditor.Utils\obj\Debug\ResolveAssemblyReference.cache
+E:\Работа\CURRENT\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Resources.resources
+E:\Работа\CURRENT\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Strings.resources
+E:\Работа\CURRENT\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.SplashScreen.resources
+E:\Работа\CURRENT\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Properties.Resources.resources
+E:\Работа\CURRENT\VisualEditor.Utils\obj\Debug\GenerateResource.read.1.tlog
+E:\Работа\CURRENT\VisualEditor.Utils\obj\Debug\ResGen.read.1.tlog
+E:\Работа\CURRENT\VisualEditor.Utils\obj\Debug\GenerateResource.write.1.tlog
+E:\Работа\CURRENT\VisualEditor.Utils\obj\Debug\ResGen.write.1.tlog
+E:\Работа\CURRENT\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+E:\Работа\CURRENT\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Resources.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Strings.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.SplashScreen.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Properties.Resources.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.csproj.GenerateResource.Cache

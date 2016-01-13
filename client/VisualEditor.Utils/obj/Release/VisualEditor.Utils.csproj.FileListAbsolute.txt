@@ -1,0 +1,40 @@
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\bin\Release\VisualEditor.Utils.dll
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\bin\Release\VisualEditor.Utils.pdb
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Release\ResolveAssemblyReference.cache
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Controls.Docking.Resources.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Controls.Docking.Strings.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Controls.SplashScreen.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Properties.Resources.resources
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Release\VisualEditor.Utils.csproj.GenerateResource.Cache
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Release\VisualEditor.Utils.dll
+E:\Passion\Work\Directions\ISPU\Visual Editor\VE 3.2\VisualEditor.Utils\obj\Release\VisualEditor.Utils.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\bin\Release\VisualEditor.Utils.dll
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\bin\Release\VisualEditor.Utils.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Controls.Docking.Resources.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Controls.Docking.Strings.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Controls.SplashScreen.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Properties.Resources.resources
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Release\VisualEditor.Utils.dll
+C:\Documents and Settings\Владелец\Рабочий стол\работа\актуальный редактор\Sources(imsqti+сетевые+компетенции)\Sources(imsqti+сетевые+компетенции)\VisualEditor.Utils\obj\Release\VisualEditor.Utils.pdb
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\bin\Release\VisualEditor.Utils.dll
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\bin\Release\VisualEditor.Utils.pdb
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Controls.Docking.Resources.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Controls.Docking.Strings.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Controls.SplashScreen.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Properties.Resources.resources
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.csproj.GenerateResource.Cache
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.dll
+E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.pdb
+E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\bin\Release\VisualEditor.Utils.dll
+E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\bin\Release\VisualEditor.Utils.pdb
+E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Controls.Docking.Resources.resources
+E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Controls.Docking.Strings.resources
+E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Controls.SplashScreen.resources
+E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.Properties.Resources.resources
+E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.csproj.GenerateResource.Cache
+E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.dll
+E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.pdb
+E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Release\VisualEditor.Utils.csprojResolveAssemblyReference.cache
