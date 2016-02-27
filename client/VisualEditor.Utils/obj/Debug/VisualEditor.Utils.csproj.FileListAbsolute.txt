@@ -149,3 +149,12 @@ E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor
 E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
 E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb
 E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.csproj.GenerateResource.Cache
+D:\Project\Gipertest\client\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.dll
+D:\Project\Gipertest\client\VisualEditor.Utils\bin\Debug\VisualEditor.Utils.pdb
+D:\Project\Gipertest\client\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Resources.resources
+D:\Project\Gipertest\client\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.Docking.Strings.resources
+D:\Project\Gipertest\client\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Controls.SplashScreen.resources
+D:\Project\Gipertest\client\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.Properties.Resources.resources
+D:\Project\Gipertest\client\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.csproj.GenerateResource.Cache
+D:\Project\Gipertest\client\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.dll
+D:\Project\Gipertest\client\VisualEditor.Utils\obj\Debug\VisualEditor.Utils.pdb

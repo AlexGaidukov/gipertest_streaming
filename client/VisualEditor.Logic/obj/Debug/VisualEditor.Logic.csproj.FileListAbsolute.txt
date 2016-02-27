@@ -580,3 +580,40 @@ E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor
 E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb
 E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.csprojResolveAssemblyReference.cache
 E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.csproj.GenerateResource.Cache
+D:\Project\Gipertest\client\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.dll
+D:\Project\Gipertest\client\VisualEditor.Logic\bin\Debug\VisualEditor.Logic.pdb
+D:\Project\Gipertest\client\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.dll
+D:\Project\Gipertest\client\VisualEditor.Logic\bin\Debug\VisualEditor.Utils.pdb
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.csprojResolveAssemblyReference.cache
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.Docking.Documents.PreviewDocument.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Controls.MainForm.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AddItemFromOuterCourseDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AnimationDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AppSettingsDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.BookmarkDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ConceptDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.AudioDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.VideoDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.EquationDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.FindDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.GroupDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.HintDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.InvalidCourseDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.LinkDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetQuestionDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.NetResponseVariantDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.OuterQuestionDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.PictureDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ProfileDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.QuestionInGroupDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.RenameDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.ResponseVariantDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.StyleDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.SymbolDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TableDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Dialogs.TestModuleDialog.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.Properties.Resources.resources
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.csproj.GenerateResource.Cache
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.dll
+D:\Project\Gipertest\client\VisualEditor.Logic\obj\Debug\VisualEditor.Logic.pdb

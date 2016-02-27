@@ -3,6 +3,8 @@ using VisualEditor.Utils.Controls.Ribbon;
 
 namespace VisualEditor.Logic.Controls.Ribbon.Panels
 {
+    using Ribbon = VisualEditor.Utils.Controls.Ribbon.Ribbon;
+
     internal class MultimediaPanel : RibbonPanel
     {
         private const string text = "Мультимедиа";
@@ -22,6 +24,7 @@ namespace VisualEditor.Logic.Controls.Ribbon.Panels
             RibbonHelper.AddButton(this, new Animation());
             RibbonHelper.AddButton(this, new Audio());
             RibbonHelper.AddButton(this, new Video());
+            RibbonHelper.AddButton(this, new StreamingVideo());
         }
     }
 }

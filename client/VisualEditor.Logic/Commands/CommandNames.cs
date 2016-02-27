@@ -93,6 +93,7 @@
         public static readonly string LinkSmall = "LinkSmall";
         public static readonly string Style = "Style";
         public static readonly string StyleSmall = "StyleSmall";
+        public static readonly string StreamingVideo = "StreamingVideo";
         public static readonly string Symbol = "Symbol";
         public static readonly string SymbolSmall = "SymbolSmall";
         public static readonly string Equation = "Equation";
@@ -169,5 +170,6 @@
         public static readonly string RecentProject = "RecentProject";
         public static readonly string OuterLoadFromHtp = "OuterLoadFromHtp";
         public static readonly string OuterLoadFromXml = "OuterLoadFromXml";
+        public static readonly string Streaming = "Streaming";
     }
 }

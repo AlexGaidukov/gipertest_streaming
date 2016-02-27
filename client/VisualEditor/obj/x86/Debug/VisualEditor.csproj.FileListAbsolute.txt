@@ -70,3 +70,16 @@ E:\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor
 E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\bin\Debug\VisualEditor.exe.config
 E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\obj\x86\Debug\VisualEditor.exe
 E:\p\Users\Protector\Documents\Visual Studio 2010\Projects\Margarette\VisualEditor\obj\x86\Debug\VisualEditor.pdb
+D:\Project\Gipertest\client\VisualEditor\bin\Debug\VisualEditor.exe.config
+D:\Project\Gipertest\client\VisualEditor\obj\x86\Debug\VisualEditor.exe
+D:\Project\Gipertest\client\VisualEditor\obj\x86\Debug\VisualEditor.pdb
+D:\Project\Gipertest\client\VisualEditor\bin\Debug\VisualEditor.exe
+D:\Project\Gipertest\client\VisualEditor\bin\Debug\VisualEditor.pdb
+D:\Project\Gipertest\client\VisualEditor\bin\Debug\VisualEditor.Logic.dll
+D:\Project\Gipertest\client\VisualEditor\bin\Debug\VisualEditor.Utils.dll
+D:\Project\Gipertest\client\VisualEditor\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Project\Gipertest\client\VisualEditor\bin\Debug\VisualEditor.Logic.pdb
+D:\Project\Gipertest\client\VisualEditor\bin\Debug\VisualEditor.Utils.pdb
+D:\Project\Gipertest\client\VisualEditor\obj\x86\Debug\VisualEditor.csprojResolveAssemblyReference.cache
+D:\Project\Gipertest\client\VisualEditor\obj\x86\Debug\VisualEditor.Properties.Resources.resources
+D:\Project\Gipertest\client\VisualEditor\obj\x86\Debug\VisualEditor.csproj.GenerateResource.Cache
