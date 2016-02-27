@@ -1,4 +1,4 @@
-.xml,.resources,.cache, .pdb, .exe, .dll
+.xml,.resources,.cache, .pdb, .exe, .dll, .suo
 ProjectName.xml
 client/VisualEditor.Logic/obj/Debug/VisualEditor.Logic.Dialogs.StreamingVideoDialog.resources
 client/VisualEditor.Utils/obj/Debug/VisualEditor.Utils.csprojResolveAssemblyReference.cache
