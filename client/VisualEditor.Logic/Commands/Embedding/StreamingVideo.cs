@@ -16,7 +16,7 @@
                 return;
             }
 
-            CommandManager.Instance.GetCommand(CommandNames.StreamingVideo).Execute(null);
+            CommandManager.Instance.GetCommand(CommandNames.StreamingCommand).Execute(null);
         }
     }
 }

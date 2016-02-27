@@ -170,6 +170,6 @@
         public static readonly string RecentProject = "RecentProject";
         public static readonly string OuterLoadFromHtp = "OuterLoadFromHtp";
         public static readonly string OuterLoadFromXml = "OuterLoadFromXml";
-        public static readonly string Streaming = "Streaming";
+        public static readonly string StreamingCommand = "StreamingCommand";
     }
 }

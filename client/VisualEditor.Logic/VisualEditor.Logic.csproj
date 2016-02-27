@@ -134,6 +134,7 @@
     <Compile Include="Commands\Embedding\LinkSmall.cs" />
     <Compile Include="Commands\Embedding\Picture.cs" />
     <Compile Include="Commands\Embedding\PictureSmall.cs" />
+    <Compile Include="Commands\Embedding\StreamingCommand.cs" />
     <Compile Include="Commands\Embedding\StreamingVideo.cs" />
     <Compile Include="Commands\Embedding\Style.cs" />
     <Compile Include="Commands\Embedding\StyleSmall.cs" />
@@ -502,6 +503,12 @@
     <Compile Include="Dialogs\AudioDialog.designer.cs">
       <DependentUpon>AudioDialog.cs</DependentUpon>
     </Compile>
+    <Compile Include="Dialogs\StreamingVideoDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\StreamingVideoDialog.Designer.cs">
+      <DependentUpon>StreamingVideoDialog.cs</DependentUpon>
+    </Compile>
     <Compile Include="Dialogs\VideoDialog.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -713,6 +720,9 @@
     <EmbeddedResource Include="Dialogs\AudioDialog.resx">
       <DependentUpon>AudioDialog.cs</DependentUpon>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\StreamingVideoDialog.resx">
+      <DependentUpon>StreamingVideoDialog.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Dialogs\VideoDialog.resx">
       <DependentUpon>VideoDialog.cs</DependentUpon>
@@ -1213,7 +1223,7 @@
   -->
   <ProjectExtensions>
     <VisualStudio>
-      <UserProperties StartDate="20100101" AssemblyFileVersion="1" AssemblyVersion="1" Reset="1" />
+      <UserProperties Reset="1" AssemblyVersion="1" AssemblyFileVersion="1" StartDate="20100101" />
     </VisualStudio>
   </ProjectExtensions>
 </Project>

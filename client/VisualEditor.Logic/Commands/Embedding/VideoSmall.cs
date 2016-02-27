@@ -23,7 +23,7 @@ namespace VisualEditor.Logic.Commands.Embedding
 
         public override void Execute(object @object)
         {
-            if (!Enabled)
+            if (!this.Enabled)
             {
                 return;
             }
