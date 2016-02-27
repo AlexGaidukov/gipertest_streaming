@@ -6,3 +6,11 @@ client/VisualEditor/bin/Debug/AppSettings.xml
 client/VisualEditor/bin/Debug/Bug reports/b3ed4355-01d7-448f-8b1f-33d21ceef778.xml
 client/VisualEditor/bin/Debug/Bug reports/f4e56cce-eba3-4048-a951-fa5c688b73ed.xml
 client/VisualEditor/bin/Debug/Dock.xml
+
+client/VisualEditor.Logic/obj
+client/VisualEditor.Logic/bin
+client/VisualEditor.Utils/obj
+client/VisualEditor.Utils/bin
+client/VisualEditor/obj
+client/VisualEditor/bin
+client/VisualEditor.v12.suo
