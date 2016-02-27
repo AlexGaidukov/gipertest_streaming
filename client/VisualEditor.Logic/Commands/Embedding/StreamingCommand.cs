@@ -42,8 +42,6 @@
             {
                 var dataTransferUnit = streamingVideoDialog.DataTransferUnit;
 
-                streamingVideoDialog.ShowDialog(EditorObserver.DialogOwner);
-
                 if (streamingVideoDialog.ShowDialog(EditorObserver.DialogOwner) == DialogResult.OK)
                 {
                     var rawHtml = EditorObserver.ActiveEditor.Document.CreateElement(TagNames.ImageTagName);
