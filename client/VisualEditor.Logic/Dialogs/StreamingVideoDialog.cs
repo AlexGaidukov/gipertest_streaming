@@ -31,5 +31,10 @@
             Warehouse.Warehouse.IsProjectModified = true;
             DialogResult = DialogResult.OK;
         }
+
+        private void cancelButton_Click(object sender, System.EventArgs e)
+        {
+            this.DialogResult = DialogResult.Cancel;
+        }
     }
 }
