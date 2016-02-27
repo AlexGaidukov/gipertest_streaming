@@ -31,5 +31,17 @@
             Warehouse.Warehouse.IsProjectModified = true;
             DialogResult = DialogResult.OK;
         }
+
+        private void linkTextBox_TextChanged(object sender, System.EventArgs e)
+        {
+            if (string.IsNullOrEmpty(this.linkTextBox.Text))
+            {
+                this.okButton.Enabled = false;
+            }
+            else
+            {
+                this.okButton.Enabled = true;
+            }
+        }
     }
 }

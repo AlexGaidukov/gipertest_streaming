@@ -36,12 +36,14 @@
             // 
             // okButton
             // 
+            this.okButton.Enabled = false;
             this.okButton.Location = new System.Drawing.Point(319, 51);
             this.okButton.Name = "okButton";
             this.okButton.Size = new System.Drawing.Size(75, 23);
             this.okButton.TabIndex = 0;
             this.okButton.Text = "OK";
             this.okButton.UseVisualStyleBackColor = true;
+            this.okButton.Select();
             this.okButton.Click += new System.EventHandler(this.okButton_Click);
             // 
             // label1
@@ -59,6 +61,7 @@
             this.linkTextBox.Name = "linkTextBox";
             this.linkTextBox.Size = new System.Drawing.Size(405, 20);
             this.linkTextBox.TabIndex = 2;
+            this.linkTextBox.TextChanged += new System.EventHandler(this.linkTextBox_TextChanged);
             // 
             // cancelButton
             // 
@@ -81,7 +84,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.okButton);
             this.Name = "StreamingVideoDialog";
-            this.Text = "StreamingVideoDialog";
+            this.Text = "Потоковое видео";
             this.ResumeLayout(false);
             this.PerformLayout();
 
