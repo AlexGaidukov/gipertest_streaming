@@ -540,6 +540,7 @@ namespace VisualEditor.Logic.Helpers
                         CommandManager.Instance.GetCommand(CommandNames.Animation).Enabled = false;
                         CommandManager.Instance.GetCommand(CommandNames.Audio).Enabled = false;
                         CommandManager.Instance.GetCommand(CommandNames.Video).Enabled = false;
+                        CommandManager.Instance.GetCommand(CommandNames.StreamingVideo).Enabled = false;
 
                         CommandManager.Instance.GetCommand(CommandNames.Bookmark).Enabled = false;
                         CommandManager.Instance.GetCommand(CommandNames.Concept).Enabled = false;
@@ -565,6 +566,7 @@ namespace VisualEditor.Logic.Helpers
                     CommandManager.Instance.GetCommand(CommandNames.Animation).Enabled = false;
                     CommandManager.Instance.GetCommand(CommandNames.Audio).Enabled = false;
                     CommandManager.Instance.GetCommand(CommandNames.Video).Enabled = false;
+                    CommandManager.Instance.GetCommand(CommandNames.StreamingVideo).Enabled = false;
 
                     CommandManager.Instance.GetCommand(CommandNames.Bookmark).Enabled = false;
                     CommandManager.Instance.GetCommand(CommandNames.Concept).Enabled = false;
@@ -596,6 +598,7 @@ namespace VisualEditor.Logic.Helpers
                                 CommandManager.Instance.GetCommand(CommandNames.Animation).Enabled = false;
                                 CommandManager.Instance.GetCommand(CommandNames.Audio).Enabled = false;
                                 CommandManager.Instance.GetCommand(CommandNames.Video).Enabled = false;
+                                CommandManager.Instance.GetCommand(CommandNames.StreamingVideo).Enabled = false;
 
                                 CommandManager.Instance.GetCommand(CommandNames.Bookmark).Enabled = false;
                                 CommandManager.Instance.GetCommand(CommandNames.Concept).Enabled = false;//
@@ -622,6 +625,7 @@ namespace VisualEditor.Logic.Helpers
                                 CommandManager.Instance.GetCommand(CommandNames.Animation).Enabled = true;
                                 CommandManager.Instance.GetCommand(CommandNames.Audio).Enabled = true;
                                 CommandManager.Instance.GetCommand(CommandNames.Video).Enabled = true;
+                                CommandManager.Instance.GetCommand(CommandNames.StreamingVideo).Enabled = true;
 
                                 CommandManager.Instance.GetCommand(CommandNames.Bookmark).Enabled = true;
                                 CommandManager.Instance.GetCommand(CommandNames.Concept).Enabled = true;//
@@ -650,6 +654,7 @@ namespace VisualEditor.Logic.Helpers
                                 CommandManager.Instance.GetCommand(CommandNames.Animation).Enabled = false;
                                 CommandManager.Instance.GetCommand(CommandNames.Audio).Enabled = false;
                                 CommandManager.Instance.GetCommand(CommandNames.Video).Enabled = false;
+                                CommandManager.Instance.GetCommand(CommandNames.StreamingVideo).Enabled = false;
 
                                 CommandManager.Instance.GetCommand(CommandNames.Bookmark).Enabled = false;
                                 CommandManager.Instance.GetCommand(CommandNames.Concept).Enabled = false;
@@ -677,6 +682,7 @@ namespace VisualEditor.Logic.Helpers
                         CommandManager.Instance.GetCommand(CommandNames.Animation).Enabled = false;
                         CommandManager.Instance.GetCommand(CommandNames.Audio).Enabled = false;
                         CommandManager.Instance.GetCommand(CommandNames.Video).Enabled = false;
+                        CommandManager.Instance.GetCommand(CommandNames.StreamingVideo).Enabled = false;
 
                         CommandManager.Instance.GetCommand(CommandNames.Bookmark).Enabled = false;
                         CommandManager.Instance.GetCommand(CommandNames.Concept).Enabled = false;
@@ -713,6 +719,7 @@ namespace VisualEditor.Logic.Helpers
                                     CommandManager.Instance.GetCommand(CommandNames.Animation).Enabled = false;
                                     CommandManager.Instance.GetCommand(CommandNames.Audio).Enabled = false;
                                     CommandManager.Instance.GetCommand(CommandNames.Video).Enabled = false;
+                                    CommandManager.Instance.GetCommand(CommandNames.StreamingVideo).Enabled = false;
 
                                     CommandManager.Instance.GetCommand(CommandNames.Bookmark).Enabled = false;
                                     CommandManager.Instance.GetCommand(CommandNames.Concept).Enabled = false;
@@ -740,6 +747,7 @@ namespace VisualEditor.Logic.Helpers
                                     CommandManager.Instance.GetCommand(CommandNames.Animation).Enabled = true;
                                     CommandManager.Instance.GetCommand(CommandNames.Audio).Enabled = true;
                                     CommandManager.Instance.GetCommand(CommandNames.Video).Enabled = true;
+                                    CommandManager.Instance.GetCommand(CommandNames.StreamingVideo).Enabled = true;
 
                                     CommandManager.Instance.GetCommand(CommandNames.Bookmark).Enabled = false;
                                     CommandManager.Instance.GetCommand(CommandNames.Concept).Enabled = false;
@@ -765,6 +773,7 @@ namespace VisualEditor.Logic.Helpers
                             CommandManager.Instance.GetCommand(CommandNames.Animation).Enabled = false;
                             CommandManager.Instance.GetCommand(CommandNames.Audio).Enabled = false;
                             CommandManager.Instance.GetCommand(CommandNames.Video).Enabled = false;
+                            CommandManager.Instance.GetCommand(CommandNames.StreamingVideo).Enabled = false;
 
                             CommandManager.Instance.GetCommand(CommandNames.Bookmark).Enabled = false;
                             CommandManager.Instance.GetCommand(CommandNames.Concept).Enabled = false;
@@ -790,6 +799,7 @@ namespace VisualEditor.Logic.Helpers
                         CommandManager.Instance.GetCommand(CommandNames.Animation).Enabled = false;
                         CommandManager.Instance.GetCommand(CommandNames.Audio).Enabled = false;
                         CommandManager.Instance.GetCommand(CommandNames.Video).Enabled = false;
+                        CommandManager.Instance.GetCommand(CommandNames.StreamingVideo).Enabled = false;
 
                         CommandManager.Instance.GetCommand(CommandNames.Bookmark).Enabled = false;
                         CommandManager.Instance.GetCommand(CommandNames.Concept).Enabled = false;
