@@ -1,5 +1,7 @@
 ﻿namespace VisualEditor.Logic.Dialogs
 {
+    using System.Drawing;
+    using System.Text.RegularExpressions;
     using System.Windows.Forms;
 
     using VisualEditor.Utils.Helpers;
@@ -26,10 +28,15 @@
 
         private void okButton_Click(object sender, System.EventArgs e)
         {
-            DataTransferUnit.SetNodeValue("Source", this.linkTextBox.Text);
+            bool validationResult = this.ValidateChildren();
 
-            Warehouse.Warehouse.IsProjectModified = true;
-            DialogResult = DialogResult.OK;
+            if (validationResult)
+            {
+                DataTransferUnit.SetNodeValue("Source", this.linkTextBox.Text);
+
+                Warehouse.Warehouse.IsProjectModified = true;
+                DialogResult = DialogResult.OK;
+            }
         }
 
         private void linkTextBox_TextChanged(object sender, System.EventArgs e)
@@ -41,6 +48,23 @@
             else
             {
                 this.okButton.Enabled = true;
+            }
+        }
+
+        private void linkTextBox_Validating(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            Regex linkRegex = new Regex("^(https?|ftp)://.*$");
+            Match linkMatch = linkRegex.Match(this.linkTextBox.Text);
+
+            if (!linkMatch.Success)
+            {
+                e.Cancel = true;
+                this.label1.ForeColor = Color.Red;
+            }
+            else
+            {
+                this.label1.ForeColor = Color.Black;
+                e.Cancel = false;
             }
         }
     }
