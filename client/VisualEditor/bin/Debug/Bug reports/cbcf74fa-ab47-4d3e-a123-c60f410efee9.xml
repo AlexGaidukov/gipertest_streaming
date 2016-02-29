@@ -1,0 +1,156 @@
+<ExceptionInfo>
+  <ProductName>VisualEditor</ProductName>
+  <ProductVersion>3.2.522.2151</ProductVersion>
+  <Date>27.02.2016 14:34:32</Date>
+  <ComputerName>FRAME-LAPTOP</ComputerName>
+  <UserName>user</UserName>
+  <OS>Microsoft Windows NT 6.1.7601 Service Pack 1</OS>
+  <Culture>ru-RU</Culture>
+  <Resolution>{Width=1366, Height=768}</Resolution>
+  <SystemUpTime>00:34:40.2780000</SystemUpTime>
+  <AppUpTime>00:02:18.8459416</AppUpTime>
+  <TotalMemory>4075Mb</TotalMemory>
+  <AvailableMemory>871Mb</AvailableMemory>
+  <ExceptionClasses>System.ComponentModel.Win32Exception</ExceptionClasses>
+  <ExceptionMessages>Не удается найти указанный файл</ExceptionMessages>
+  <StackTraces>   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at VisualEditor.Logic.IO.Wrappers.GZipHelper.Decompress(String path) in d:\Project\Gipertest\client\VisualEditor.Logic\IO\Wrappers\GZipHelper.cs:line 36
+   at VisualEditor.Logic.Commands.IO.LoadFromHtp.Execute(Object object) in d:\Project\Gipertest\client\VisualEditor.Logic\Commands\IO\LoadFromHtp.cs:line 106</StackTraces>
+  <LoadedModules>D:\Project\Gipertest\client\VisualEditor\bin\Debug\VisualEditor.vshost.exe 12.0.21005.1
+C:\Windows\SysWOW64\ntdll.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\SYSTEM32\MSCOREE.DLL 4.0.40305.0 (Main.040305-0000)
+C:\Windows\syswow64\KERNEL32.dll 6.1.7601.17965 (win7sp1_gdr.121004-0333)
+C:\Windows\syswow64\KERNELBASE.dll 6.1.7601.17965 (win7sp1_gdr.121004-0333)
+C:\Windows\syswow64\ADVAPI32.dll 6.1.7601.19135 (win7sp1_gdr.160121-1718)
+C:\Windows\syswow64\msvcrt.dll 7.0.7601.17744 (win7sp1_gdr.111215-1535)
+C:\Windows\SysWOW64\sechost.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\RPCRT4.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\SspiCli.dll 6.1.7601.19135 (win7sp1_gdr.160121-1718)
+C:\Windows\syswow64\CRYPTBASE.dll 6.1.7601.19135 (win7sp1_gdr.160121-1718)
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll 4.0.30319.18408 built by: FX451RTMGREL
+C:\Windows\syswow64\SHLWAPI.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\GDI32.dll 6.1.7601.19091 (win7sp1_gdr.151208-0600)
+C:\Windows\syswow64\USER32.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\syswow64\LPK.dll 6.1.7601.18985 (win7sp1_gdr.150901-1452)
+C:\Windows\syswow64\USP10.dll 1.0626.7601.19054 (win7sp1_gdr.151103-0600)
+C:\Windows\system32\IMM32.DLL 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\syswow64\MSCTF.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll 4.0.30319.18444 built by: FX451RTMGDR
+C:\Windows\system32\MSVCR110_CLR0400.dll 11.00.50938.18408 built by: FX451RTMGREL
+C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib\ce5f61c5754789df97be8dc991c47d07\mscorlib.ni.dll 4.0.30319.18444 built by: FX451RTMGDR
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\nlssorting.dll 4.0.30319.18408 built by: FX451RTMGREL
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll 4.0.30319.18444 built by: FX451RTMGDR
+C:\Windows\syswow64\OLEAUT32.dll 6.1.7601.18640
+C:\Windows\syswow64\ole32.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System\17a393b77ae757f0768501fb95ff5af6\System.ni.dll 4.0.30319.34238 built by: FX452RTMGDR
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Drawing\0fa731ea0ae5de79fe1c1ab061d82fd1\System.Drawing.ni.dll 4.0.30319.34270 built by: FX452RTMGDR
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Windows.Forms\1f91e1eb6dd96423dbe49ef2085ddb21\System.Windows.Forms.ni.dll 4.0.30319.34251 built by: FX452RTMGDR
+C:\Windows\system32\VERSION.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Program Files (x86)\Common Files\Microsoft Shared\VS7Debug\12.0\Microsoft.VisualStudio.Debugger.Runtime.Impl.dll 12.0.21005.1 built by: REL
+C:\Windows\syswow64\CLBCatQ.DLL 2001.12.8530.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\CRYPTSP.dll 6.1.7601.18741 (win7sp1_gdr.150202-1526)
+C:\Windows\system32\rsaenh.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\RpcRtRemote.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\system32\SXS.DLL 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\psapi.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\uxtheme.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\comctl32.dll 6.10 (win7_rtm.090713-1255)
+C:\Windows\system32\dwmapi.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core\d2acb5226fa8916ef6417139a742a09d\System.Core.ni.dll 4.0.30319.18408 built by: FX451RTMGREL
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\comctl32.dll 6.10 (win7_rtm.090713-1255)
+C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.19061_none_72d6d48d86649709\gdiplus.dll 6.1.7601.19061 (win7sp1_gdr.151110-0600)
+C:\Windows\system32\WindowsCodecs.dll 6.2.9200.17251 (win8_gdr.150128-1514)
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml\7147fa233a070283dba824da40089bf1\System.Xml.ni.dll 4.0.30319.34234 built by: FX452RTMGDR
+C:\Windows\syswow64\shell32.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Configuration\5023210ae4242a319712718fc6a23848\System.Configuration.ni.dll 4.0.30319.18408 built by: FX451RTMGREL
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Design\5db2162af3520be29d57a5a58f14251b\System.Design.ni.dll 4.0.30319.18408 built by: FX451RTMGREL
+C:\Windows\System32\comdlg32.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\SETUPAPI.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\CFGMGR32.dll 6.1.7601.17621 (win7sp1_gdr.110523-2108)
+C:\Windows\syswow64\DEVOBJ.dll 6.1.7601.17621 (win7sp1_gdr.110523-2108)
+C:\Windows\system32\propsys.dll 7.00.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\ntmarta.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\WLDAP32.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\profapi.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\apphelp.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\System32\shdocvw.dll 6.1.7601.18222 (win7sp1_gdr.130725-1535)
+C:\Windows\system32\explorerframe.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\DUser.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\DUI70.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Users\user\AppData\Local\Microsoft\OneDrive\17.3.6301.0127\FileSyncShell.dll 17.3.6301.0127
+C:\Users\user\AppData\Local\Microsoft\OneDrive\17.3.6301.0127\MSVCP120.dll 12.00.21005.1 built by: REL
+C:\Users\user\AppData\Local\Microsoft\OneDrive\17.3.6301.0127\MSVCR120.dll 12.00.21005.1 built by: REL
+C:\Users\user\AppData\Local\Microsoft\OneDrive\17.3.6301.0127\Telemetry.dll 17.3.6301.0127
+C:\Users\user\AppData\Local\Microsoft\OneDrive\17.3.6301.0127\LoggingPlatform.DLL 17.3.6301.0127
+C:\Windows\system32\WSOCK32.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\WS2_32.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\NSI.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\Cabinet.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\system32\WINHTTP.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\webio.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\syswow64\WININET.dll 11.00.9600.16428 (winblue_gdr.131013-1700)
+C:\Windows\syswow64\api-ms-win-downlevel-user32-l1-1-0.dll 6.2.9200.16492 (win8_gdr_oobssr.130113-0015)
+C:\Windows\syswow64\api-ms-win-downlevel-shlwapi-l1-1-0.dll 6.2.9200.16492 (win8_gdr_oobssr.130113-0015)
+C:\Windows\syswow64\api-ms-win-downlevel-version-l1-1-0.dll 6.2.9200.16492 (win8_gdr_oobssr.130113-0015)
+C:\Windows\syswow64\api-ms-win-downlevel-normaliz-l1-1-0.dll 6.2.9200.16492 (win8_gdr_oobssr.130113-0015)
+C:\Windows\syswow64\normaliz.DLL 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\iertutil.dll 11.00.9600.18212 (winblue_ltsb_escrow.160205-2245)
+C:\Windows\syswow64\api-ms-win-downlevel-advapi32-l1-1-0.dll 6.2.9200.16492 (win8_gdr_oobssr.130113-0015)
+C:\Windows\syswow64\USERENV.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\PROGRA~2\MIF5BA~1\Office15\GROOVEEX.DLL 15.0.4797.1000
+C:\Windows\system32\MSVCR100.dll 10.00.40219.325
+C:\Windows\system32\MSVCP100.dll 10.00.40219.325
+C:\Windows\system32\ATL100.DLL 10.00.40219.325
+C:\Windows\system32\msi.dll 5.0.7601.18896
+C:\PROGRA~2\MIF5BA~1\Office15\1049\GrooveIntlResource.dll 15.0.4763.1000
+C:\Windows\system32\EhStorShell.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\ntshrui.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\srvcli.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\system32\cscapi.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\system32\slc.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\msls31.dll 3.10.349.0
+C:\Windows\system32\xmllite.dll 1.3.1000.0
+C:\Windows\System32\StructuredQuery.dll 7.00.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\System32\Secur32.dll 6.1.7601.19135 (win7sp1_gdr.160121-1718)
+C:\Windows\SysWOW64\actxprxy.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Program Files (x86)\Internet Explorer\ieproxy.dll 11.00.9600.18212 (winblue_ltsb_escrow.160205-2245)
+C:\Windows\system32\api-ms-win-downlevel-shlwapi-l2-1-0.dll 6.2.9200.16492 (win8_gdr_oobssr.130113-0015)
+C:\Windows\SysWOW64\thumbcache.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\ieframe.DLL 11.00.9600.18212 (winblue_ltsb_escrow.160205-2245)
+C:\Windows\system32\api-ms-win-downlevel-shell32-l1-1-0.dll 6.2.9200.16492 (win8_gdr_oobssr.130113-0015)
+C:\Windows\system32\NetworkExplorer.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\MPR.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\SysWOW64\FunDisc.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\SysWOW64\ATL.DLL 3.05.2284
+C:\Windows\system32\LINKINFO.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\SysWOW64\fdproxy.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\System32\drprov.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\System32\WINSTA.dll 6.1.7601.18540 (win7sp1_gdr.140716-1508)
+C:\Windows\System32\ntlanman.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\System32\davclnt.dll 6.1.7601.18912 (win7sp1_gdr.150701-0844)
+C:\Windows\System32\DAVHLPR.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\wkscli.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\system32\netutils.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\System32\provsvc.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\WINMM.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\SearchFolder.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\PortableDeviceApi.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\WINTRUST.dll 6.1.7601.18741 (win7sp1_gdr.150202-1526)
+C:\Windows\syswow64\CRYPT32.dll 6.1.7601.18741 (win7sp1_gdr.150202-1526)
+C:\Windows\syswow64\MSASN1.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\system32\EhStorAPI.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\pcwum.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\perfcounter.dll 4.0.30319.18408 built by: FX451RTMGREL
+C:\Windows\system32\pdh.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\aspnet_counters.dll 4.0.30319.18408 built by: FX451RTMGREL
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_perf.dll 4.0.30319.34280 built by: FX452RTMGDR
+C:\Windows\system32\MSVCR120_CLR0400.dll 12.00.51720.34280 built by: FX452RTMGDR
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_perf.dll 2.0.50727.5483 (Win7SP1GDR.050727-5400)
+C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6229_none_d089f796442de10e\MSVCR80.dll 8.00.50727.6229
+C:\Windows\system32\rasman.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\System32\perfos.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll 11.0.50938.18408 built by: FX451RTMGREL
+</LoadedModules>
+</ExceptionInfo>

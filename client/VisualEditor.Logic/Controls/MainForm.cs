@@ -137,10 +137,13 @@ namespace VisualEditor.Logic.Controls
             CommandManager.Instance.Register(new SaveToImsQti());
             CommandManager.Instance.Register(new PictureSmall());
             CommandManager.Instance.Register(new AnimationSmall());
+
             CommandManager.Instance.Register(new AudioSmall());
             CommandManager.Instance.Register(new VideoSmall());
-            CommandManager.Instance.Register(new AudioSmall());
-            CommandManager.Instance.Register(new VideoSmall());
+            
+            CommandManager.Instance.Register(new StreamingVideo());
+            CommandManager.Instance.Register(new StreamingCommand());
+            
             CommandManager.Instance.Register(new BookmarkSmall());
             CommandManager.Instance.Register(new ConceptSmall());
             CommandManager.Instance.Register(new LinkSmall());
@@ -229,7 +232,10 @@ namespace VisualEditor.Logic.Controls
             CommandManager.Instance.GetCommand(CommandNames.EditEquation).Enabled = true;
             CommandManager.Instance.GetCommand(CommandNames.RecentProject).Enabled = true;
             CommandManager.Instance.GetCommand(CommandNames.SaveToImsQti).Enabled = true;
-            CommandManager.Instance.GetCommand(CommandNames.LoadFromImsQti).Enabled = true;        
+            CommandManager.Instance.GetCommand(CommandNames.LoadFromImsQti).Enabled = true;
+
+            CommandManager.Instance.GetCommand(CommandNames.StreamingVideo).Enabled = true;
+            CommandManager.Instance.GetCommand(CommandNames.StreamingCommand).Enabled = true;
         }
 
         #endregion
