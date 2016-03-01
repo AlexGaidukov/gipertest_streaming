@@ -116,8 +116,8 @@
         public static readonly string Help = string.Empty;
         public static readonly string AppSettings = "Параметры редактора";
         public static readonly string SaveToXml = string.Empty;
-        public static readonly string StreamingVideo = "Добавить стрим";
-        public static readonly string StreamingCommand = "Добавить стрим...";
+        public static readonly string StreamingVideo = "Потоковое видео";
+        public static readonly string StreamingCommand = "Потоковое видео...";
         public static readonly string LoadFromXml = string.Empty;
         public static readonly string HintFontName = string.Empty;
         public static readonly string HintFontSize = string.Empty;
