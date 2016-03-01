@@ -37,6 +37,7 @@
             // 
             // okButton
             // 
+            this.okButton.DialogResult = System.Windows.Forms.DialogResult.OK;
             this.okButton.Enabled = false;
             this.okButton.Location = new System.Drawing.Point(319, 51);
             this.okButton.Name = "okButton";
@@ -66,6 +67,7 @@
             // 
             // cancelButton
             // 
+            this.cancelButton.CausesValidation = false;
             this.cancelButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.cancelButton.Location = new System.Drawing.Point(400, 51);
             this.cancelButton.Name = "cancelButton";
